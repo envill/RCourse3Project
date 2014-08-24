@@ -15,7 +15,7 @@ The R script run_analysis.R reads downloaded data and process the required data.
 
 ### R packages required
 
-The R package reshape2 is required to run this script. This maybe installed with,
+The R package reshape2 is required to run this script. You have to install it first and then call it... as follow:
 
 install.package("reshape2")
 
@@ -37,5 +37,5 @@ What I did and my code does is:
 
 6- Calculate the means of this secondary dataset. Group by Subject/Activity
 
-7- Save this last dataset as "tidy_data.txt"
+7- Save this last dataset as "TidyData.txt"
 
