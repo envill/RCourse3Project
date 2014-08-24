@@ -3,7 +3,7 @@ RCourse3Project
 
 ### CoodBook.md
 
-I provide in this repo a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called.
+I provide in this repo a code book that describes the variables, the data, and any transformations I performed to clean up the data.
 
 ### run_analysis.R
 
